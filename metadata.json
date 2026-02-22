@@ -1,0 +1,5 @@
+{
+  "name": "Burn Rate Visualizer",
+  "description": "A personal finance tool to visualize spending pace and predict financial runway using burn rate analysis.",
+  "requestFramePermissions": []
+}
